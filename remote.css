@@ -1,0 +1,26 @@
+body {
+  background-color: steelblue;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  /* border: 1px solid #ccc; */
+  max-width: max-content;
+  margin: 2rem auto;
+}
+
+.remote {
+  color: #fff;
+  font-size: 3.5rem;
+  text-align: center;
+  color: #000;
+}
+
+.para {
+  font-size: 2rem;
+  max-width: 600px;
+  margin: 2rem auto;
+  padding-left: 1rem;
+  border-left: 3px solid #fff;
+}
