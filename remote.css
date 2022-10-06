@@ -5,9 +5,10 @@ body {
 h1 {
   text-align: center;
   font-size: 3rem;
-  /* border: 1px solid #ccc; */
+  border: 1px solid #ccc;
   max-width: max-content;
   margin: 2rem auto;
+  color: lime;
 }
 
 .remote {
